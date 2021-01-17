@@ -1,6 +1,6 @@
 # Monster-Killer
 * Project name: Monster-Killer
-* Description: A OpenGL based game. The goal of the game is to kill all of monsters without being hit by them.
+* Description: An OpenGL based game. The goal of game is to kill all of monsters without being hit by them.
 * Libraries:
   * IDE: Visual Studio 2019
   * Platform Toolset: Visual Studio 2019 (v142)
