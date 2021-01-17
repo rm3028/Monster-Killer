@@ -24,7 +24,7 @@
   * Keyborad 'b': Switch life bar of monsters
 * Author: Wei-Yun
 * Email: rm3028@hotmail.com.tw
-* Copyright © 2021 Wei-Yun.
+* Copyright © 2014 Wei-Yun.
 * All rights reserved.
 
 * Demo: 
