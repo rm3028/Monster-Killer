@@ -8,6 +8,20 @@
   * freeglut: 3.2.1
   * glew: 2.1.0
   * gml
+* Operations:
+  * Left mouse button: Camera turn left
+  * Right mouse button: Camera turn right
+  * Keyborad 'w': Move forward
+  * Keyborad 'a': Move left
+  * Keyborad 's': Move backward
+  * Keyborad 'd': Moving right
+  * Keyborad '1': Attack by left arm
+  * Keyborad '2': Attack by Right arm
+  * Keyborad '0': Rebirth the killer
+  * Keyborad 'n': Rebirth monsters
+  * Keyborad 'l': Switch the spotlight
+  * Keyborad 'm': Switch aerial map
+  * Keyborad 'b': Switch life bar of monsters
 * Author: Wei-Yun
 * Email: rm3028@hotmail.com.tw
 * Copyright © 2021 Wei-Yun.
