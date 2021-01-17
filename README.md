@@ -28,5 +28,5 @@
 * All rights reserved.
 
 * Demo: 
-  ![image]("https://github.com/rm3028/Monster-Killer/blob/master/Monster-Killer-Demo.PNG" =400x300)
+  ![image](https://github.com/rm3028/Monster-Killer/blob/master/Monster-Killer-Demo.PNG | width=400)
   
