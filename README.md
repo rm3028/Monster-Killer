@@ -8,6 +8,8 @@
   * freeglut: 3.2.1
   * glew: 2.1.0
   * gml
+* Demo: 
+  * ![image](https://github.com/rm3028/Monster-Killer/blob/master/Monster-Killer-Demo.PNG)
 * Author: Wei-Yun
 * Email: rm3028@hotmail.com.tw
 * Copyright © 2021 Wei-Yun.
