@@ -27,6 +27,6 @@
 * Copyright © 2021 Wei-Yun
 * All rights reserved.
 
-* Demo: 
-  ![image](https://github.com/rm3028/Monster-Killer/blob/master/Monster-Killer-Demo.PNG)
+## Demo
+![image](https://github.com/rm3028/Monster-Killer/blob/master/Monster-Killer-Demo.PNG)
   
